@@ -1,7 +1,7 @@
 Source: libtest-class-moose-perl
 Section: perl
 Priority: optional
-Maintainer: root <root@38fac86a5734>
+Maintainer: Sjoerd Langkemper <sjoerd@byte.nl>
 Build-Depends: debhelper (>= 8)
 Build-Depends-Indep: libcarp-always-perl,
  liblist-moreutils-perl,
@@ -15,7 +15,7 @@ Build-Depends-Indep: libcarp-always-perl,
  libtry-tiny-perl,
  perl,
  perl-base,
- perl-modules (>= 6.30)
+ perl-modules (>= 5.10)
 Standards-Version: 3.9.2
 Homepage: http://search.cpan.org/dist/Test-Class-Moose/
 

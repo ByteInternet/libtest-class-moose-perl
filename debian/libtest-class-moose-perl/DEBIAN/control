@@ -1,7 +1,7 @@
 Package: libtest-class-moose-perl
 Version: 0.54-1
 Architecture: all
-Maintainer: root <root@38fac86a5734>
+Maintainer: Sjoerd Langkemper <sjoerd@byte.nl>
 Installed-Size: 222
 Depends: perl, liblist-moreutils-perl, libmoose-perl (>= 2.0000), libmoosex-classattribute-perl, libnamespace-autoclean-perl, libparallel-forkmanager-perl, libsub-attribute-perl, libtap-stream-perl, libtest-most-perl, libtry-tiny-perl, perl-base, perl-modules
 Section: perl
