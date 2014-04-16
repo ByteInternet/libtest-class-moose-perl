@@ -1,0 +1,13 @@
+Use TAP::Object. It is used in TAP::Formatter::Color but not imported.
+Index: libtest-class-moose-perl/lib/Test/Class/Moose/Config.pm
+===================================================================
+--- libtest-class-moose-perl.orig/lib/Test/Class/Moose/Config.pm	2014-04-16 12:08:20.564932404 +0200
++++ libtest-class-moose-perl/lib/Test/Class/Moose/Config.pm	2014-04-16 12:08:33.716734187 +0200
+@@ -5,6 +5,7 @@
+ use 5.10.0;
+ use Moose;
+ use Moose::Util::TypeConstraints;
++use TAP::Object;
+ use TAP::Formatter::Color;
+ use namespace::autoclean;
+ 

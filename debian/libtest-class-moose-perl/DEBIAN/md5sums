@@ -18,7 +18,7 @@ ab1a2312aeabd1276725f226656e8a1f  usr/share/man/man3/Test::Class::Moose::Role::R
 77fc2f87d5e0e975f5b8febcb07409de  usr/share/man/man3/Test::Class::Moose::Tutorial.3pm.gz
 48a0538c7fcad4b3884baae1b380ba0b  usr/share/perl5/Test/Class/Moose.pm
 9f98f01beeb24fd05336dff538aaa35d  usr/share/perl5/Test/Class/Moose/AttributeRegistry.pm
-7efe9c00cd92092ac010b97a6760572e  usr/share/perl5/Test/Class/Moose/Config.pm
+ae4c830b6ff78f191e28080a17bb5367  usr/share/perl5/Test/Class/Moose/Config.pm
 0ca5047c18f1336f92d70033c3c76628  usr/share/perl5/Test/Class/Moose/Load.pm
 8565bec62c15a238fe4ddfe7c685ac0f  usr/share/perl5/Test/Class/Moose/Report.pm
 c49d1c52e7c34c79844cc193072711ba  usr/share/perl5/Test/Class/Moose/Report/Class.pm

@@ -5,6 +5,7 @@ $Test::Class::Moose::Config::VERSION = '0.54';
 use 5.10.0;
 use Moose;
 use Moose::Util::TypeConstraints;
+use TAP::Object;
 use TAP::Formatter::Color;
 use namespace::autoclean;
 
